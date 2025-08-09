@@ -1,6 +1,7 @@
 # Somma di N numeri utilizzando MPI
+Questo repository contiene degli algoritmi paralleli sviluppati utilizzando MPI (Message Passing Interface).
 
-Per la somma di N numeri INTERI sono stati implementati due algoritmi:
+Nello specifico, per la somma di N numeri INTERI sono stati implementati due algoritmi:
 * algoritmo sequenziale (il cui file è chiamato sommaInteriSeq.c);
 * algoritmo parallelo che implementa la terza strategia (sommaInteriParall3.c).
 <br><br><br>
